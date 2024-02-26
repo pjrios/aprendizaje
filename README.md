@@ -1,6 +1,7 @@
 # Taller en clase
 ## Objetivo: 
 Desarrollar un ejemplo de una actividad en clase que soporte la teoría del aprendizaje seleccionada. 
+
 Teoria seleccionada: **Teoria de John Dewey**
 ## Actividad de ejemplo:
 **Excursion Virtual**:
