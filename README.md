@@ -12,8 +12,8 @@ La presentación en clase seguiría un formato de la estrategia "Que veo, Que no
 - **Paso 1: Exploración y Selección**
 	- Navegarán por el museo virtual y explorarán las diferentes secciones.
 	- Decidirán qué obra de arte o exhibición investigarán.
-- **Paso 2: Preparación de la Presentación**
-	- Utilizando la estrategia "Qué veo, Qué no veo, Qué infiero", preparen una presentación en Google Slides que incluya:
+- **Paso 2: Análisis**
+	- Utilizando la estrategia "Qué veo, Qué no veo, Qué infiero", preparen una Análisis.  
 	 - **<a href="https://docs.google.com/presentation/d/1-THPSX5thGq63kohOOx3CbRRI5grgdme5wFaU3Eknx4/edit?usp=sharing" target="_blank">Hacer clic aquí para ir a la plantilla de Google Slides</a>**
 
 ## Museo virtual:
